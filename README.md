@@ -1,10 +1,10 @@
-# Campus-Exchange🎓🛒
+# Dormex🎓🛒
 
 > A P2P marketplace exclusively for any college community.
 
 ## 📖 Overview
 
-Campus-Exchange is hyperlocal marketplace exclusively for students in a college community.
+Dormex is a hyperlocal marketplace exclusively for students in a college community.
 
 ## 💡 Motivation
 Our main motivation was to fix the idea of selling products over in WhatsApp groups. So we decided to make an independent centralized application where items can be traded with trust and ease.
@@ -19,7 +19,7 @@ Our main motivation was to fix the idea of selling products over in WhatsApp gro
 - **Item Delisting**: Items are automatically delisted after 1 year (10 minutes here for demo purpose) if not sold.
 - **Filter Feature:** Items can be filtered based on the categories provided.
 - **Claim Item:** Items listed can be claimed prior to which lister receives the notification of the claim.
-- **Item relisting:** Lister has an option to re-list the item (after it has been claimed) if the deal was unsuccessful. This is followed by blocking the user for 7 days (for that particular item).
+- **Item relisting:** Lister has an option to re-list the item (after it has been claimed) if the deal was unsuccessful. This is followed by blocking the user for 7 days (for that particular item)[...]
 - **Blocked User**: Users are blocked if the deal is not successful (item is relisted) even after them claiming the item (Unable to claim the same item for 7 days).
 - **Notification Updates:** Claimers and Listers receive notifications for specific actions that are relevant to them.
 - **LogFile Generation**: Every activity of the backend is tracked and listed in a LogFile which can be used for debugging, tracking user activity, security purposes.
@@ -74,8 +74,8 @@ Base URL: http://localhost:8080
 1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/Taneesh-Bhojawala/Java-Project-SEM-3.git
-    cd Java-Project-SEM-3
+    git clone https://github.com/abhinavbhatia2006/Dormex-Marketplace.git
+    cd Dormex-Marketplace
     ```
 2. **Check if Java is installed:**
     ```bash
@@ -85,7 +85,7 @@ Base URL: http://localhost:8080
     ```bash
     winget install -e --id Oracle.JDK.25
     ```
-4. **Copy the App.jar file to another directory outside the Java-Project-SEM-3 directory**
+4. **Copy the App.jar file to another directory outside the Dormex-Marketplace directory**
 5. Open terminal in the directory containing App.jar file.
 6. **Run the Application**
     ```bash
@@ -108,4 +108,4 @@ Base URL: http://localhost:8080
 
 ## 📜 License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Taneesh-Bhojawala/Java-Project-SEM-3/blob/main/LICENSE) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/abhinavbhatia2006/Dormex-Marketplace/blob/main/LICENSE) for more information.
