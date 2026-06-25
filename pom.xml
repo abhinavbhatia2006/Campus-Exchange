@@ -8,11 +8,11 @@
 		<version>3.5.8</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.campus</groupId>
-	<artifactId>exchange</artifactId>
+	<groupId>com.dormex</groupId>
+	<artifactId>marketplace</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>campus-exchange</name>
-	<description>Campus Exchange Backend</description>
+	<name>dormex-marketplace</name>
+	<description>Dormex Marketplace Backend - P2P college community marketplace</description>
 	<url/>
 	<licenses>
 		<license/>
